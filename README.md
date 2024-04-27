@@ -1,5 +1,7 @@
 # Covid Growth Simulation
 
+Lauryn James and Miguel
+
 **Summary** 
 
 In this project we seek to simulate the Covid epidemic spread across the globe and the populations that were affected more severly by the virus. 
